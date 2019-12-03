@@ -17,6 +17,8 @@ namespace Learning_01
             InitializeComponent();
         }
 
+        //2019-12-03 yuanhuihai
+
         GetPlcDBW operatePlc = new GetPlcDBW();//类的实例化
 
         private void button2_Click(object sender, EventArgs e)
